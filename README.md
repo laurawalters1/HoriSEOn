@@ -1,6 +1,5 @@
 Description
 
-screenshot
 
 https://laurawalters1.github.io/week_1-homework/#social-media-marketing
 
